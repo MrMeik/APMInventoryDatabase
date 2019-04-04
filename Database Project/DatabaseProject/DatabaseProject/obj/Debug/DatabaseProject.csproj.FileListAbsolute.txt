@@ -1,0 +1,14 @@
+C:\Users\Mike-Laptop\Desktop\Database Project\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe.config
+C:\Users\Mike-Laptop\Desktop\Database Project\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe
+C:\Users\Mike-Laptop\Desktop\Database Project\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.pdb
+C:\Users\Mike-Laptop\Desktop\Database Project\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csprojAssemblyReference.cache
+C:\Users\Mike-Laptop\Desktop\Database Project\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.Properties.Resources.resources
+C:\Users\Mike-Laptop\Desktop\Database Project\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.GenerateResource.cache
+C:\Users\Mike-Laptop\Desktop\Database Project\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\Mike-Laptop\Desktop\Database Project\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.exe
+C:\Users\Mike-Laptop\Desktop\Database Project\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.pdb
+C:\Users\Mike-Laptop\Desktop\Database Project\DatabaseProject\DatabaseProject\bin\Debug\InventoryDB.mdf
+C:\Users\Mike-Laptop\Desktop\Database Project\DatabaseProject\DatabaseProject\bin\Debug\InventoryDB_log.ldf
+C:\Users\Mike-Laptop\Desktop\Database Project\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.APMInventory.resources
+C:\Users\Mike-Laptop\Desktop\Database Project\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.ItemPopupForm.resources
+C:\Users\Mike-Laptop\Desktop\Database Project\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.EmployeePopupForm.resources
